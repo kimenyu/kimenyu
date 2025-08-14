@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a Fullstack Software Developer who drinks backend for breakfast ☕. I love solving real-world problems — whether it's building multi-tenant SaaS platforms, automating business processes, or just making sure your API doesn’t crash at 2 AM.
+I'm a Fullstack Software Developer who drinks backend for breakfast. I love solving real-world problems — whether it's building multi-tenant SaaS platforms, automating business processes, or just making sure your API doesn’t crash at 2 AM.
 
 I work mostly with FastAPI, Django, Go, Node.js (TypeScript), and React. If it runs on servers and scales well, I'm probably into it. You'll also catch me writing about tech in plain, human language — because good ideas shouldn’t get lost in jargon.
 
